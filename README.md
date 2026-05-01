@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Masakazu Usui
+I'm a software engineer with a background in systems engineering and software development. Currently focused on building .NET web applications to deepen my skills and explore modern backend patterns.
 
 <!--
 **masakazu-usui/masakazu-usui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
